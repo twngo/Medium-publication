@@ -44,7 +44,7 @@
 
 **二月**：[NGOs 快讓網站連線安全加密吧](markdown/20180227.md) | [NGO 數位技能： 資料數據政策與運用方針](markdown/20180220.md) | [Non-profit Digital Team 非營利組織的數位工作編置](markdown/20180213.md) | [visualizing rights 資料視覺化的人權倡議應用](markdown/201800206.md) |  
 
-**一月**：[2018 全球 NGO 網路科技使用調查 NGOs Tech Report](markdown/20180130.md) | [Technology pro bono 科技公益協助在台灣？](markdown/20180123.md) | [Digital Technologies For Resilience](markdown/20180116.md) | [CRM Customer Relationship Management 入門 （1）) | [數位發展計畫的九大原則](markdown/20180102.md) |  
+**一月**：[2018 全球 NGO 網路科技使用調查 NGOs Tech Report](markdown/20180130.md) | [Technology pro bono 科技公益協助在台灣？](markdown/20180123.md) | [Digital Technologies For Resilience](markdown/20180116.md) | [CRM Customer Relationship Management 入門 （1)](markdown/20180109.md) | [數位發展計畫的九大原則](markdown/20180102.md) |  
 
 ## 2017 專文
 **十二月**：[從性別角度出發的網路安全資訊](markdown/20171226.md) | [非營利組織數位轉型 Nonprofit Digital Transformation](markdown/20171219.md) | [話術詮釋與公民社會空間壓縮](markdown/20171212.md) | [NGO 網站改造案例分享](markdown/20171205.md) | 
