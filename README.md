@@ -63,7 +63,7 @@
 
 **六月**：[NGO/NPO 工作者網路使用狀況問卷調查](markdown/20170627.md) | [社運團體的政策倡議技巧應用 — The Advocacy Planning, Strategy and Skills Guide by CQ Roll Call](markdown/20170620.md) | [NGO/NPO工作者該如何使用（個人）社交平台？](markdown/20170613.md) | [NGONewsTW 推特帳號數據分析](markdown/201700606.md) |
 
-**五月**：[NGO 數位策略發展指引初版發佈](markdown/20170530.md) | [SAFETAG 簡介 ： The Security Auditing Framework and Evaluation Template for Advocacy Groups](markdown/20170523.md) | [M+R’s 2017 NPO線上指標報告](markdown/20170516.md) | [設定可辨識的自家網域短名稱BSD](markdown/20170509.md) | [NGOs / NPOs (網路數位)表現評量指標](markdown/20170509.md) | 
+**五月**：[NGO 數位策略發展指引初版發佈](markdown/20170530.md) | [SAFETAG 簡介 ： The Security Auditing Framework and Evaluation Template for Advocacy Groups](markdown/20170523.md) | [M+R’s 2017 NPO線上指標報告](markdown/20170516.md) | [設定可辨識的自家網域短名稱BSD](markdown/20170513.md) | [NGOs / NPOs (網路數位)表現評量指標](markdown/20170509.md) | 
 
 **四月**：[台版NGO/NPO 數位發展策略指南徵求意見](markdown/20170425.md) | [英國公益組織的數位工具箱 THE CHARITY DIGITAL TOOLKIT](markdown/20170418.md) | [M+R’s 2017 NPO線上指標報告](markdown/20170516.md) | [Networked Change : 進步社會行動如何贏取勝利？](markdown/20170411.md) | [2017 NGO Digital Outlook Report](markdown/20170404.md) | 
 
